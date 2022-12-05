@@ -1,0 +1,8 @@
+  .selection-rect {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: yellow;
+    opacity: 0;
+    pointer-events: none;
+  }
